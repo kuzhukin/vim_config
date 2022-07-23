@@ -1,0 +1,4 @@
+Cloning vundle
+	git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+Open vim and print
+	:PluginInstall
